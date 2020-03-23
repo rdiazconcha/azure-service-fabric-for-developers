@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/ECommerce" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="ECommerce.Api.Customers_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="ECommerce.Api.Customers_InstanceCount" Value="1" />
+    <Parameter Name="ECommerce.Api.Search_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="ECommerce.Api.Search_InstanceCount" Value="1" />
+    <Parameter Name="ECommerce.Api.Products_InstanceCount" Value="1" />
+  </Parameters>
+</Application>
